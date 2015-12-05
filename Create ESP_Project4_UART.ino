@@ -4,7 +4,7 @@
 #include <WiFiClient.h>
 #include <EEPROM.h>
 
-const String ver = "0.3 UART is hard!"; 
+const String ver = "0.3 UART is very hard!"; 
 
 // Fiags:
 bool modAP = true; // true - AP  || false - STA  
